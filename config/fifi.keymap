@@ -11,6 +11,7 @@
 #include "../config/zmk-nodefree-config/helper.h"
 #include "../config/zmk-nodefree-config-main/keypos_def/keypos_36keys.h"
 #include "../config/zmk-nodefree-config-main/international_chars/german.dtsi"
+#include "../config/zmk-nodefree-config/international_chars/german_alt.dtsi"
 
 #define HOST_OS 2
 #define DEFAULT 0
