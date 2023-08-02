@@ -122,56 +122,56 @@
     combos {
         compatible = "zmk,combos";
         combo_scrn_shot {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 4>;
             bindings = <&kp LG(LS(S))>;
         };
 
         combo_scsnip {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 9>;
             bindings = <&your_macro>;
         };
 
 
         combo_alt_tab {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 5>;
             bindings = <&kp LA(TAB)>;
         };
 
         combo_Parentheses {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 29>;
             bindings = <&macro_par>;
         };
 
         combo_bracket_round_l {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 18>;
             bindings = <&kp LPAR>;
         };
 
         combo_bracket_round_r {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 19>;
             bindings = <&kp RPAR>;
         };
 
         combo_parentheses_chevrons {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 26>;
             bindings = <&parentheses_chevrons>;
         };
 
         combo_bracket_square_l {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 16>;
             bindings = <&kp LBKT>;
         };
 
         combo_bracket_square_r {
-            timeout-ms = <50>;
+            timeout-ms = <70>;
             key-positions = <0 17>;
             bindings = <&kp RBKT>;
         };
