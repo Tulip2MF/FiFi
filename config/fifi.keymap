@@ -154,7 +154,7 @@
         combo_bracket_round_r {
             timeout-ms = <70>;
             key-positions = <0 19>;
-            bindings = <&kp RPAR>;
+            bindings = <&kp RIGHT_PARENTHESIS>;
         };
 
         combo_parentheses_chevrons {
